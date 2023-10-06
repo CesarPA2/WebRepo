@@ -1,2 +1,3 @@
 let x = 0;
-console.log(x);
+let y = 1;
+console.log(x+y);
